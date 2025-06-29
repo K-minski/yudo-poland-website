@@ -6,7 +6,7 @@ Rebuild with react-router v7
 ### Installation
 Clone project from repository:
 ```
-git clone
+git clone https://github.com/K-minski/yudo-poland-website.git
 ```
 
 
@@ -58,7 +58,7 @@ The containerized application can be deployed to any platform that supports Dock
 
 ## Styling
 
-This project uses [styled-components](https://tailwindcss.com/) instead of css
+This project uses [styled-components](https://styled-components.com/) instead of css
 
 ---
 
